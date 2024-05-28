@@ -1,0 +1,4 @@
+i = 1
+While i <= 1250:
+print(i)
+i = i + 1
